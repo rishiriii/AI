@@ -1,0 +1,9 @@
+father_of(joe, paul).
+father_of(joe, mary).
+mother_of(jane, paul).
+mother_of(jane, mary).
+male(paul).
+male(joe).
+female(mary).
+female(jane).
+
